@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    name: root
+    password: jingdianjichi123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://117.78.51.210:3306/ape-frame?serveTimeZone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      initial-size: 20
+      min-idle: 20
+      max-active: 100
+      max-wait: 60000
