@@ -1,2 +1,6 @@
-com\jingdianjichi\user\entity\po\UserPo.class
-com\jingdianjichi\user\mapper\UserMapper.class
+com/jingdianjichi/user/mapper/service/UserService.class
+com/jingdianjichi/user/UserApplication.class
+com/jingdianjichi/user/mapper/UserMapper.class
+com/jingdianjichi/user/entity/dto/UserDto.class
+com/jingdianjichi/user/entity/po/UserPo.class
+com/jingdianjichi/user/controller/TestController.class

@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.jingdianjichi</groupId>
-    <artifactId>ape-frame</artifactId>
+    <artifactId>ape-frames</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>ape-user</module>

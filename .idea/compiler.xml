@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -17,7 +18,7 @@
       <module name="ape-common" options="-parameters" />
       <module name="ape-common-mybatisplus" options="" />
       <module name="ape-common-web" options="" />
-      <module name="ape-frame" options="-parameters" />
+      <module name="ape-frames" options="-parameters" />
       <module name="ape-user" options="-parameters" />
     </option>
   </component>
